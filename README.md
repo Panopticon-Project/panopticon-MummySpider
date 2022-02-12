@@ -15,3 +15,5 @@ https://research.checkpoint.com/2021/when-old-friends-meet-again-why-emotet-chos
 https://www.securityweek.com/microsoft-patches-67-security-flaws-including-zero-day-exploited-emotet
 
 https://securityaffairs.co/wordpress/127108/malware/emotet-evasion-technique.html
+
+https://isc.sans.edu/forums/diary/Example+of+Cobalt+Strike+from+Emotet+infection/28318/
