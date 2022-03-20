@@ -17,3 +17,5 @@ https://www.securityweek.com/microsoft-patches-67-security-flaws-including-zero-
 https://securityaffairs.co/wordpress/127108/malware/emotet-evasion-technique.html
 
 https://isc.sans.edu/forums/diary/Example+of+Cobalt+Strike+from+Emotet+infection/28318/
+
+https://www.cysecurity.news/2022/03/emotet-malware-campaign-masquerades-irs.html
