@@ -19,3 +19,5 @@ https://securityaffairs.co/wordpress/127108/malware/emotet-evasion-technique.htm
 https://isc.sans.edu/forums/diary/Example+of+Cobalt+Strike+from+Emotet+infection/28318/
 
 https://www.cysecurity.news/2022/03/emotet-malware-campaign-masquerades-irs.html
+
+https://securelist.com/emotet-modules-and-recent-attacks/106290/
