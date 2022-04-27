@@ -21,3 +21,5 @@ https://isc.sans.edu/forums/diary/Example+of+Cobalt+Strike+from+Emotet+infection
 https://www.cysecurity.news/2022/03/emotet-malware-campaign-masquerades-irs.html
 
 https://securelist.com/emotet-modules-and-recent-attacks/106290/
+
+https://www.bleepingcomputer.com/news/security/emotet-malware-infects-users-again-after-fixing-broken-installer/
