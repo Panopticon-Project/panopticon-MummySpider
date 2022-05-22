@@ -25,3 +25,5 @@ https://securelist.com/emotet-modules-and-recent-attacks/106290/
 https://www.bleepingcomputer.com/news/security/emotet-malware-infects-users-again-after-fixing-broken-installer/
 
 https://blog.talosintelligence.com/2022/05/threat-source-newsletter-may-5-2022.html?utm_source=feedburner&utm_medium=email
+
+https://www.trendmicro.com/en_us/research/22/e/bruised-but-not-broken--the-resurgence-of-the-emotet-botnet-malw.html
