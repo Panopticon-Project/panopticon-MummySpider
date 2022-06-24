@@ -27,3 +27,5 @@ https://www.bleepingcomputer.com/news/security/emotet-malware-infects-users-agai
 https://blog.talosintelligence.com/2022/05/threat-source-newsletter-may-5-2022.html?utm_source=feedburner&utm_medium=email
 
 https://www.trendmicro.com/en_us/research/22/e/bruised-but-not-broken--the-resurgence-of-the-emotet-botnet-malw.html
+
+http://reversing.fun/posts/2022/06/20/emotet-smb-spreader.html?utm_source=substack&utm_medium=email
