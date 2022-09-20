@@ -31,3 +31,5 @@ https://www.trendmicro.com/en_us/research/22/e/bruised-but-not-broken--the-resur
 http://reversing.fun/posts/2022/06/20/emotet-smb-spreader.html?utm_source=substack&utm_medium=email
 
 https://twitter.com/threatinsight/status/1534298451076431873
+
+https://www.advintel.io/post/advintel-s-state-of-emotet-aka-spmtools-displays-over-million-compromised-machines-through-2022
