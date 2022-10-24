@@ -33,3 +33,5 @@ http://reversing.fun/posts/2022/06/20/emotet-smb-spreader.html?utm_source=substa
 https://twitter.com/threatinsight/status/1534298451076431873
 
 https://www.advintel.io/post/advintel-s-state-of-emotet-aka-spmtools-displays-over-million-compromised-machines-through-2022
+
+https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/archive-sidestepping-self-unlocking-password-protected-rar/
