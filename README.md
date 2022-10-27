@@ -35,3 +35,5 @@ https://twitter.com/threatinsight/status/1534298451076431873
 https://www.advintel.io/post/advintel-s-state-of-emotet-aka-spmtools-displays-over-million-compromised-machines-through-2022
 
 https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/archive-sidestepping-self-unlocking-password-protected-rar/
+
+https://blogs.vmware.com/security/2022/10/emotet-exposed-a-look-inside-the-cybercriminal-supply-chain.html
