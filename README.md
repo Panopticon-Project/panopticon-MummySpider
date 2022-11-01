@@ -37,3 +37,5 @@ https://www.advintel.io/post/advintel-s-state-of-emotet-aka-spmtools-displays-ov
 https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/archive-sidestepping-self-unlocking-password-protected-rar/
 
 https://blogs.vmware.com/security/2022/10/emotet-exposed-a-look-inside-the-cybercriminal-supply-chain.html
+
+https://www.elastic.co/security-labs/emotet-dynamic-configuration-extraction
