@@ -39,3 +39,5 @@ https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/archive-sidestep
 https://blogs.vmware.com/security/2022/10/emotet-exposed-a-look-inside-the-cybercriminal-supply-chain.html
 
 https://www.elastic.co/security-labs/emotet-dynamic-configuration-extraction
+
+https://www.bleepingcomputer.com/news/security/emotet-botnet-starts-blasting-malware-again-after-4-month-break/
