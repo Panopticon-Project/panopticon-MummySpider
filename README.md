@@ -41,3 +41,7 @@ https://blogs.vmware.com/security/2022/10/emotet-exposed-a-look-inside-the-cyber
 https://www.elastic.co/security-labs/emotet-dynamic-configuration-extraction
 
 https://www.bleepingcomputer.com/news/security/emotet-botnet-starts-blasting-malware-again-after-4-month-break/
+
+https://blog.talosintelligence.com/emotet-coming-in-hot/
+
+https://twitter.com/Cryptolaemus1/status/1587792659275448320
