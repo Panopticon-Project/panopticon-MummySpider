@@ -45,3 +45,5 @@ https://www.bleepingcomputer.com/news/security/emotet-botnet-starts-blasting-mal
 https://blog.talosintelligence.com/emotet-coming-in-hot/
 
 https://twitter.com/Cryptolaemus1/status/1587792659275448320
+
+https://www.proofpoint.com/us/blog/threat-insight/comprehensive-look-emotets-fall-2022-return
