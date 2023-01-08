@@ -49,3 +49,7 @@ https://twitter.com/Cryptolaemus1/status/1587792659275448320
 https://www.proofpoint.com/us/blog/threat-insight/comprehensive-look-emotets-fall-2022-return
 
 https://thedfirreport.com/2022/11/28/emotet-strikes-again-lnk-file-leads-to-domain-wide-ransomware/
+
+https://www.deepinstinct.com/blog/emotet-vacation-is-over-no-rest-for-the-wicked
+
+https://www.proofpoint.com/us/blog/threat-insight/comprehensive-look-emotets-fall-2022-return
